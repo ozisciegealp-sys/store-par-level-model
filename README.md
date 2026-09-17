@@ -2,7 +2,7 @@
 
 Mağazanın ürün satış raporundan, her stok kalemi için **ne kadar sipariş verilmesi gerektiğini** ve bu stoğun **depoya sığıp sığmadığını** hesaplayan Excel modeli.
 
-> **Not:** Bu dosya, bir kahve zincirinin bölge operasyonunda kurduğum ve kullandığım modelin, **sahte veriyle yeniden oluşturulmuş gösterim sürümüdür**. Orijinal dosya şirket verisi içerdiği için paylaşılmamıştır. Mağaza adları, ürünler, satış adetleri, raf ölçüleri ve sevkiyat takvimi uydurmadır. Formül mimarisi orijinaliyle aynıdır.
+> **Not:** Bu dosya, bir kahve zincirinin bölge operasyonunda kurduğum ve kullandığım modelin, **sahte veriyle yeniden oluşturulmuş gösterim sürümüdür**. Orijinal dosya şirket verisi içerdiği için paylaşılmamıştır. Mağaza adları, ürünler, satış adetleri, raf ölçüleri ve sevkiyat takvimi uydurmadır. Hesap mantığı ve sayfa zinciri orijinaliyle aynıdır; formüller eski Excel sürümlerinde ve LibreOffice'te de çalışacak şekilde yeniden yazılmıştır.
 
 ## Hangi problemi çözüyor
 
