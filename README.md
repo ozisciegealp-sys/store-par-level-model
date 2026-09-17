@@ -1,5 +1,7 @@
 # Par Level ve Kapasite Planlama Modeli
 
+*Excel model that turns store sales into per-item order quantities and checks whether the resulting stock fits the stockroom. Documentation in Turkish; all data is synthetic.*
+
 Mağazanın ürün satış raporundan, her stok kalemi için **ne kadar sipariş verilmesi gerektiğini** ve bu stoğun **depoya sığıp sığmadığını** hesaplayan Excel modeli.
 
 > **Not:** Bu dosya, bir kahve zincirinin bölge operasyonunda kurduğum ve kullandığım modelin, **sahte veriyle yeniden oluşturulmuş gösterim sürümüdür**. Orijinal dosya şirket verisi içerdiği için paylaşılmamıştır. Mağaza adları, ürünler, satış adetleri, raf ölçüleri ve sevkiyat takvimi uydurmadır. Hesap mantığı ve sayfa zinciri orijinaliyle aynıdır; formüller eski Excel sürümlerinde ve LibreOffice'te de çalışacak şekilde yeniden yazılmıştır.
